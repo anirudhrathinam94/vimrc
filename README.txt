@@ -20,6 +20,8 @@ set autoread                    "Reload files changed outside vim
 set t_vb=                       "Remove visual flash
 set whichwrap+=<,>,[,]          "Left and right arrow keys can change line
 set mouse=a                     "Mouse support
+set splitbelow                  "sp splits buffer below
+set splitright                  "vsp splits buffer to right
 
 " This makes vim act like all other editors, buffers can
 " exist in the background without being in a window.
